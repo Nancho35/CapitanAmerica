@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  locacion: MyString
+  fecha: 2018-08-25
+  heroes_requeridos: MyString
+  integer: MyString
+
+two:
+  nombre: MyString
+  locacion: MyString
+  fecha: 2018-08-25
+  heroes_requeridos: MyString
+  integer: MyString

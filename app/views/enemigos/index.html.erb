@@ -1,0 +1,31 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Enemigos</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Edad</th>
+      <th>Poderes</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @enemigos.each do |enemigo| %>
+      <tr>
+        <td><%= enemigo.nombre %></td>
+        <td><%= enemigo.edad %></td>
+        <td><%= enemigo.poderes %></td>
+        <td><%= link_to 'Show', enemigo %></td>
+        <td><%= link_to 'Edit', edit_enemigo_path(enemigo) %></td>
+        <td><%= link_to 'Destroy', enemigo, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Enemigo', new_enemigo_path %>

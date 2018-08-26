@@ -1,0 +1,2 @@
+class Misione < ApplicationRecord
+end

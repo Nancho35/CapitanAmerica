@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Nombre:</strong>
+  <%= @aliado.nombre %>
+</p>
+
+<p>
+  <strong>Descripcion:</strong>
+  <%= @aliado.descripcion %>
+</p>
+
+<%= link_to 'Edit', edit_aliado_path(@aliado) %> |
+<%= link_to 'Back', aliados_path %>

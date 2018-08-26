@@ -1,0 +1,2 @@
+class Companero < ApplicationRecord
+end

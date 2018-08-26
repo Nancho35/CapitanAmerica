@@ -1,0 +1,33 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Misiones</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Locacion</th>
+      <th>Fecha</th>
+      <th>Heroes requeridos</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @misiones.each do |misione| %>
+      <tr>
+        <td><%= misione.nombre %></td>
+        <td><%= misione.locacion %></td>
+        <td><%= misione.fecha %></td>
+        <td><%= misione.heroes_requeridos %></td>
+        <td><%= link_to 'Show', misione %></td>
+        <td><%= link_to 'Edit', edit_misione_path(misione) %></td>
+        <td><%= link_to 'Destroy', misione, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Misione', new_misione_path %>

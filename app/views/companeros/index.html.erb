@@ -1,0 +1,31 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Compañeros</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Descripcion</th>
+      <th>Especialidad</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @companeros.each do |companero| %>
+      <tr>
+        <td><%= companero.nombre %></td>
+        <td><%= companero.descripcion %></td>
+        <td><%= companero.especialidad %></td>
+        <td><%= link_to 'Show', companero %></td>
+        <td><%= link_to 'Edit', edit_companero_path(companero) %></td>
+        <td><%= link_to 'Destroy', companero, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'Nuevo Compañero', new_companero_path %>

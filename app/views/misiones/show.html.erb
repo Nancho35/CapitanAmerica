@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Nombre:</strong>
+  <%= @misione.nombre %>
+</p>
+
+<p>
+  <strong>Locacion:</strong>
+  <%= @misione.locacion %>
+</p>
+
+<p>
+  <strong>Fecha:</strong>
+  <%= @misione.fecha %>
+</p>
+
+<p>
+  <strong>Heroes requeridos:</strong>
+  <%= @misione.heroes_requeridos %>
+</p>
+
+<%= link_to 'Edit', edit_misione_path(@misione) %> |
+<%= link_to 'Back', misiones_path %>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CapitanAmerica</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+  <div class="container">
+  <%= image_tag  "head.png" %>
+  <div class="centered"><h1>Steve Rogers App</h1>
+  <p>LLeva el registro de patrocinadores, aliados, compañeros de equipo, personas salvadas, enemigos; fecha y hora
+de tus próximas misiones</p>
+<%= link_to  "Aliados", controller: 'aliados' %>
+<%= link_to  "Patrocinadores",  controller: 'patrocinadors'%>
+<%= link_to  "Compañeros",  controller: 'companeros'%>
+<%= link_to  "Personas Salvadas",  controller: 'personas'%>
+<%= link_to  "Enemigos",  controller: 'enemigos'%>
+<%= link_to  "Misiones",  controller: 'misiones'%>
+</div>
+
+</div>
+
+
+
+
+    <%= yield %>
+  </body>
+</html>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Ruby</ID>
+  <OriginalElement>ApplicationController</OriginalElement>
+  <nodes>
+    <node x="0.0" y="316.0">ActiveSupport::DescendantsTracker</node>
+    <node x="350.1875" y="395.0">Module</node>
+    <node x="432.8125" y="237.0">Rake::DSL</node>
+    <node x="225.8125" y="237.0">PP::ObjectMixin</node>
+    <node x="244.1875" y="395.0">ActionController::Testing::Functional</node>
+    <node x="422.3125" y="79.0">FileUtils</node>
+    <node x="341.8125" y="237.0">ActiveSupport::Tryable</node>
+    <node x="0.0" y="706.0">Kernel</node>
+    <node x="552.3125" y="0.0">ActiveSupport::Configurable::ClassMethods</node>
+    <node x="168.6875" y="632.0">ApplicationController</node>
+    <node x="414.3125" y="158.0">Rake::FileUtilsExt</node>
+    <node x="157.0" y="316.0">ActiveSupport::Configurable</node>
+    <node x="213.6875" y="553.0">ActionController::Base</node>
+    <node x="288.64814814814815" y="316.0">Object</node>
+    <node x="357.1875" y="474.0">Class</node>
+    <node x="381.5625" y="316.0">Module::Concerning</node>
+    <node x="410.3125" y="0.0">FileUtils::StreamUtils_</node>
+    <node x="210.6875" y="474.0">ActionController::Metal</node>
+    <node x="168.1875" y="395.0">AbstractController::Base</node>
+    <node x="111.8125" y="237.0">BasicObject</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="FileUtils" target="FileUtils::StreamUtils_">
+      <point x="18.25" y="-14.5" />
+      <point x="477.0625" y="54.0" />
+      <point x="483.0625" y="54.0" />
+      <point x="24.25" y="14.5" />
+    </edge>
+    <edge source="Object" target="PP::ObjectMixin">
+      <point x="-8.375" y="-14.5" />
+      <point x="313.77314814814815" y="286.0" />
+      <point x="273.8125" y="286.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="AbstractController::Base" target="ActiveSupport::Configurable">
+      <point x="0.0" y="-14.5" />
+      <point x="196.1875" y="370.0" />
+      <point x="207.0" y="370.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Rake::FileUtilsExt" target="FileUtils">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Module" target="Module::Concerning">
+      <point x="18.0" y="-14.5" />
+      <point x="404.1875" y="370.0" />
+      <point x="427.5625" y="370.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="AbstractController::Base" target="ActiveSupport::DescendantsTracker">
+      <point x="-18.666666666666686" y="-14.5" />
+      <point x="177.52083333333331" y="370.0" />
+      <point x="68.5" y="370.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Rake::DSL" target="Rake::FileUtilsExt">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Object" target="ActiveSupport::Tryable">
+      <point x="8.375" y="-14.5" />
+      <point x="330.52314814814815" y="286.0" />
+      <point x="377.3125" y="286.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="AbstractController::Base" target="Object">
+      <point x="18.666666666666657" y="-14.5" />
+      <point x="214.85416666666666" y="370.0" />
+      <point x="305.39814814814815" y="370.0" />
+      <point x="-16.75" y="14.5" />
+    </edge>
+    <edge source="ActionController::Metal" target="ActionController::Testing::Functional">
+      <point x="15.5" y="-14.5" />
+      <point x="257.1875" y="449.0" />
+      <point x="287.1875" y="449.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Object" target="BasicObject">
+      <point x="-25.125" y="-14.5" />
+      <point x="297.02314814814815" y="296.0" />
+      <point x="158.8125" y="296.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Class" target="Module">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Module" target="Object">
+      <point x="-18.0" y="-14.5" />
+      <point x="368.1875" y="370.0" />
+      <point x="338.89814814814815" y="370.0" />
+      <point x="16.75" y="14.5" />
+    </edge>
+    <edge source="ActionController::Metal" target="AbstractController::Base">
+      <point x="-15.5" y="-14.5" />
+      <point x="226.1875" y="449.0" />
+      <point x="196.1875" y="449.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="ApplicationController" target="ActionController::Base">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="ActionController::Base" target="ActionController::Metal">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Object" target="Rake::DSL">
+      <point x="25.125" y="-14.5" />
+      <point x="347.27314814814815" y="296.0" />
+      <point x="458.8125" y="296.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9112582781456953" x="414.942112939717" y="340.20082718281583" />
+  <SelectedNodes />
+  <Categories />
+</Diagram>
+

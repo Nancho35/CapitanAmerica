@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>GemDependency</ID>
+  <OriginalElement>#CapitanAmerica</OriginalElement>
+  <nodes>
+    <node x="3594.235476374188" y="1063.0">jbuilder</node>
+    <node x="766.6404950213052" y="585.0">sass-listen</node>
+    <node x="2668.985476374188" y="585.0">activejob</node>
+    <node x="1179.6404950213052" y="904.0">sass</node>
+    <node x="3687.235476374188" y="1063.0">puma</node>
+    <node x="4339.622822053199" y="1063.0">turbolinks</node>
+    <node x="35.75" y="79.0">tzinfo</node>
+    <node x="2358.9004629629626" y="1532.0">#CapitanAmerica</node>
+    <node x="530.8904950213052" y="904.0">rubyzip</node>
+    <node x="1025.9738283546387" y="1063.0">capybara</node>
+    <node x="1577.4475937867371" y="585.0">mail</node>
+    <node x="4346.372822053199" y="904.0">turbolinks-source</node>
+    <node x="3187.235476374188" y="585.0">execjs</node>
+    <node x="1805.6975937867371" y="904.0">railties</node>
+    <node x="4050.940723287768" y="1063.0">pg</node>
+    <node x="38.916666666666515" y="198.0">tzinfo-data</node>
+    <node x="1011.6893555261577" y="79.0">nokogiri</node>
+    <node x="1717.6975937867371" y="904.0">bindex</node>
+    <node x="1463.0725937867371" y="585.0">sprockets</node>
+    <node x="2106.638580246913" y="337.0">rails-html-sanitizer</node>
+    <node x="1886.9070036926778" y="1063.0">web-console</node>
+    <node x="206.46604938271594" y="585.0">io-like</node>
+    <node x="1601.6975937867371" y="904.0">addressable</node>
+    <node x="3184.735476374188" y="904.0">uglifier</node>
+    <node x="2827.985476374188" y="337.0">erubi</node>
+    <node x="1993.6184271200705" y="585.0">actionpack</node>
+    <node x="4444.622822053199" y="1063.0">railroady</node>
+    <node x="760.0459137088469" y="79.0">minitest</node>
+    <node x="1158.6404950213052" y="585.0">rake</node>
+    <node x="2368.011710942088" y="1063.0">coffee-rails</node>
+    <node x="3770.235476374188" y="904.0">multi_json</node>
+    <node x="2470.2796925521698" y="466.0">activemodel</node>
+    <node x="3453.735476374188" y="466.0">websocket-extensions</node>
+    <node x="1370.0725937867371" y="904.0">tilt</node>
+    <node x="2768.985476374188" y="585.0">activerecord</node>
+    <node x="3162.836791317602" y="0.0">concurrent-ruby</node>
+    <node x="594.6404950213052" y="1063.0">chromedriver-helper</node>
+    <node x="841.1404950213052" y="337.0">rack</node>
+    <node x="2859.485476374188" y="466.0">globalid</node>
+    <node x="123.46604938271594" y="337.0">ffi</node>
+    <node x="2103.6184271200705" y="904.0">actionmailer</node>
+    <node x="3899.4641061324173" y="79.0">crass</node>
+    <node x="3095.735476374188" y="585.0">marcel</node>
+    <node x="3285.985476374188" y="1063.0">sqlite3</node>
+    <node x="1254.0725937867371" y="585.0">thor</node>
+    <node x="3864.9641061324173" y="198.0">loofah</node>
+    <node x="978.6404950213052" y="466.0">rack-test</node>
+    <node x="3976.4641061324173" y="79.0">i18n</node>
+    <node x="4038.440723287768" y="904.0">ruby_parser</node>
+    <node x="2645.3011606224277" y="904.0">actioncable</node>
+    <node x="872.6404950213052" y="466.0">rb-fsevent</node>
+    <node x="1327.0725937867371" y="585.0">method_source</node>
+    <node x="1442.0725937867371" y="904.0">sprockets-rails</node>
+    <node x="3429.235476374188" y="585.0">websocket-driver</node>
+    <node x="1392.0725937867371" y="1063.0">sass-rails</node>
+    <node x="2466.7796925521698" y="198.0">activesupport</node>
+    <node x="2275.9004629629626" y="585.0">public_suffix</node>
+    <node x="1098.6404950213052" y="904.0">xpath</node>
+    <node x="209.39049502130501" y="904.0">childprocess</node>
+    <node x="0.0" y="0.0">thread_safe</node>
+    <node x="3966.940723287768" y="1063.0">umlify</node>
+    <node x="3104.485476374188" y="466.0">mimemagic</node>
+    <node x="1521.9475937867371" y="466.0">mini_mime</node>
+    <node x="4117.9407232877675" y="1063.0">byebug</node>
+    <node x="3271.235476374188" y="585.0">coffee-script-source</node>
+    <node x="4210.9407232877675" y="1063.0">bootsnap</node>
+    <node x="373.89049502130524" y="1063.0">selenium-webdriver</node>
+    <node x="4086.440723287768" y="585.0">sexp_processor</node>
+    <node x="3022.735476374188" y="466.0">arel</node>
+    <node x="2926.985476374188" y="904.0">coffee-script</node>
+    <node x="2295.011710942088" y="1063.0">rails</node>
+    <node x="4238.1907232877675" y="904.0">msgpack</node>
+    <node x="1997.6385802469133" y="466.0">actionview</node>
+    <node x="657.049382716049" y="0.0">mini_portile2</node>
+    <node x="1224.8904950213052" y="337.0">builder</node>
+    <node x="2424.980309836121" y="904.0">activestorage</node>
+    <node x="2992.235476374188" y="585.0">nio4r</node>
+    <node x="340.890495021305" y="904.0">archive-zip</node>
+    <node x="1818.3089542915895" y="337.0">rails-dom-testing</node>
+    <node x="104.46604938271594" y="466.0">rb-inotify</node>
+    <node x="2547.980309836121" y="904.0">bundler</node>
+    <node x="3844.485476374188" y="1063.0">duktape</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="actioncable" target="websocket-driver">
+      <point x="31.0" y="-14.5" />
+      <point x="2722.8011606224277" y="884.0" />
+      <point x="3459.985476374188" y="884.0" />
+      <point x="-30.75" y="14.5" />
+    </edge>
+    <edge source="selenium-webdriver" target="rubyzip">
+      <point x="34.0" y="-14.5" />
+      <point x="475.89049502130524" y="1043.0" />
+      <point x="548.6404950213052" y="1043.0" />
+      <point x="-17.75" y="14.5" />
+    </edge>
+    <edge source="actionmailer" target="rails-dom-testing">
+      <point x="-19.600000000000023" y="-14.5" />
+      <point x="2133.0184271200706" y="704.0" />
+      <point x="1854.892287624923" y="704.0" />
+      <point x="1854.892287624923" y="446.0" />
+      <point x="1864.4339542915895" y="446.0" />
+      <point x="-15.375" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="builder">
+      <point x="-25.77777777777783" y="-14.5" />
+      <point x="2391.1226851851848" y="1292.0" />
+      <point x="1242.1404950213052" y="1292.0" />
+      <point x="-17.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="sprockets-rails">
+      <point x="-17.18518518518522" y="-14.5" />
+      <point x="2399.7152777777774" y="1232.0" />
+      <point x="1496.0725937867371" y="1232.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="turbolinks">
+      <point x="54.41975308641986" y="-14.5" />
+      <point x="2471.3202160493825" y="1492.0" />
+      <point x="4381.622822053199" y="1492.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="chromedriver-helper">
+      <point x="-40.098765432098844" y="-14.5" />
+      <point x="2376.8016975308637" y="1392.0" />
+      <point x="664.6404950213052" y="1392.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="activerecord">
+      <point x="10.024691358024484" y="-14.5" />
+      <point x="2426.925154320987" y="1182.0" />
+      <point x="2862.936728395062" y="1182.0" />
+      <point x="2862.936728395062" y="834.0" />
+      <point x="2849.818809707521" y="834.0" />
+      <point x="32.33333333333326" y="14.5" />
+    </edge>
+    <edge source="addressable" target="public_suffix">
+      <point x="0.0" y="-14.5" />
+      <point x="1649.6975937867371" y="794.0" />
+      <point x="2300.1504629629626" y="794.0" />
+      <point x="-24.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="mini_portile2">
+      <point x="-47.25925925925958" y="-14.5" />
+      <point x="2369.641203703703" y="1442.0" />
+      <point x="330.390495021305" y="1442.0" />
+      <point x="330.390495021305" y="59.0" />
+      <point x="682.299382716049" y="59.0" />
+      <point x="-25.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="actionpack">
+      <point x="-4.296296296296532" y="-14.5" />
+      <point x="2412.604166666666" y="1142.0" />
+      <point x="2212.1184271200705" y="1142.0" />
+      <point x="2212.1184271200705" y="674.0" />
+      <point x="2038.1184271200705" y="674.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="sass-rails" target="tilt">
+      <point x="-15.799999999999955" y="-14.5" />
+      <point x="1415.7725937867372" y="1013.0" />
+      <point x="1404.5725937867371" y="1013.0" />
+      <point x="11.5" y="14.5" />
+    </edge>
+    <edge source="actionview" target="rails-dom-testing">
+      <point x="-17.600000000000023" y="-14.5" />
+      <point x="2024.0385802469132" y="386.0" />
+      <point x="1925.9339542915895" y="386.0" />
+      <point x="46.125" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="capybara">
+      <point x="-30.07407407407436" y="-14.5" />
+      <point x="2386.8263888888882" y="1322.0" />
+      <point x="1065.9738283546387" y="1322.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="umlify">
+      <point x="41.53086419753072" y="-14.5" />
+      <point x="2458.4313271604933" y="1402.0" />
+      <point x="3998.940723287768" y="1402.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="sass-listen" target="rb-fsevent">
+      <point x="21.25" y="-14.5" />
+      <point x="830.3904950213052" y="565.0" />
+      <point x="893.8904950213052" y="565.0" />
+      <point x="-21.25" y="14.5" />
+    </edge>
+    <edge source="tzinfo-data" target="tzinfo">
+      <point x="0.0" y="-14.5" />
+      <point x="84.41666666666652" y="178.0" />
+      <point x="66.75" y="178.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="nokogiri" target="mini_portile2">
+      <point x="0.0" y="-14.5" />
+      <point x="1049.6893555261577" y="59.0" />
+      <point x="732.799382716049" y="59.0" />
+      <point x="25.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="mimemagic">
+      <point x="20.049382716049422" y="-14.5" />
+      <point x="2436.949845679012" y="1252.0" />
+      <point x="3174.235476374188" y="1252.0" />
+      <point x="3174.235476374188" y="565.0" />
+      <point x="3175.735476374188" y="565.0" />
+      <point x="23.75" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="websocket-extensions">
+      <point x="31.506172839506235" y="-14.5" />
+      <point x="2448.406635802469" y="1332.0" />
+      <point x="3759.735476374188" y="1332.0" />
+      <point x="3759.735476374188" y="565.0" />
+      <point x="3564.735476374188" y="565.0" />
+      <point x="37.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="archive-zip">
+      <point x="-45.82716049382725" y="-14.5" />
+      <point x="2371.0733024691353" y="1432.0" />
+      <point x="363.390495021305" y="1432.0" />
+      <point x="-22.5" y="14.5" />
+    </edge>
+    <edge source="rails" target="actionmailer">
+      <point x="-15.458333333333258" y="-14.5" />
+      <point x="2306.053377608755" y="993.0" />
+      <point x="2177.1184271200705" y="993.0" />
+      <point x="24.5" y="14.5" />
+    </edge>
+    <edge source="actionview" target="activesupport">
+      <point x="0.0" y="-14.5" />
+      <point x="2041.6385802469133" y="287.0" />
+      <point x="2494.7796925521698" y="287.0" />
+      <point x="-24.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="i18n">
+      <point x="51.55555555555566" y="-14.5" />
+      <point x="2468.4560185185182" y="1472.0" />
+      <point x="4327.6907232877675" y="1472.0" />
+      <point x="4327.6907232877675" y="178.0" />
+      <point x="4021.4641061324173" y="178.0" />
+      <point x="18.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="uglifier">
+      <point x="21.481481481481296" y="-14.5" />
+      <point x="2438.381944444444" y="1262.0" />
+      <point x="3219.235476374188" y="1262.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="ruby_parser">
+      <point x="44.39506172839492" y="-14.5" />
+      <point x="2461.2955246913575" y="1422.0" />
+      <point x="4107.4407232877675" y="1422.0" />
+      <point x="23.0" y="14.5" />
+    </edge>
+    <edge source="rails-dom-testing" target="nokogiri">
+      <point x="-30.75" y="-14.5" />
+      <point x="1849.0589542915895" y="158.0" />
+      <point x="1068.6893555261577" y="158.0" />
+      <point x="19.0" y="14.5" />
+    </edge>
+    <edge source="actionview" target="rails-html-sanitizer">
+      <point x="17.600000000000023" y="-14.5" />
+      <point x="2059.2385802469134" y="436.0" />
+      <point x="2128.4719135802466" y="436.0" />
+      <point x="-43.66666666666674" y="14.5" />
+    </edge>
+    <edge source="sprockets-rails" target="actionpack">
+      <point x="36.0" y="-14.5" />
+      <point x="1532.0725937867371" y="774.0" />
+      <point x="1999.9755699772134" y="774.0" />
+      <point x="-38.14285714285711" y="14.5" />
+    </edge>
+    <edge source="sass-rails" target="railties">
+      <point x="31.59999999999991" y="-14.5" />
+      <point x="1463.172593786737" y="1043.0" />
+      <point x="1812.3975937867372" y="1043.0" />
+      <point x="-26.799999999999955" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="multi_json">
+      <point x="32.93827160493811" y="-14.5" />
+      <point x="2449.8387345679007" y="1342.0" />
+      <point x="3833.985476374188" y="1342.0" />
+      <point x="21.25" y="14.5" />
+    </edge>
+    <edge source="umlify" target="activesupport">
+      <point x="-21.33333333333303" y="-14.5" />
+      <point x="3977.690723287768" y="247.0" />
+      <point x="2566.7796925521698" y="247.0" />
+      <point x="48.0" y="14.5" />
+    </edge>
+    <edge source="coffee-script" target="execjs">
+      <point x="-24.75" y="-14.5" />
+      <point x="2951.735476374188" y="864.0" />
+      <point x="3197.902143040854" y="864.0" />
+      <point x="-21.333333333333485" y="14.5" />
+    </edge>
+    <edge source="i18n" target="concurrent-ruby">
+      <point x="0.0" y="-14.5" />
+      <point x="4003.4641061324173" y="59.0" />
+      <point x="3235.336791317602" y="59.0" />
+      <point x="14.5" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="msgpack">
+      <point x="50.12345679012333" y="-14.5" />
+      <point x="2467.023919753086" y="1462.0" />
+      <point x="4303.4407232877675" y="1462.0" />
+      <point x="4303.4407232877675" y="1043.0" />
+      <point x="4297.4407232877675" y="1043.0" />
+      <point x="19.75" y="14.5" />
+    </edge>
+    <edge source="rails" target="actionpack">
+      <point x="-11.041666666666742" y="-14.5" />
+      <point x="2310.470044275421" y="983.0" />
+      <point x="2232.0296925521693" y="983.0" />
+      <point x="2232.0296925521693" y="664.0" />
+      <point x="2050.8327128343562" y="664.0" />
+      <point x="12.71428571428578" y="14.5" />
+    </edge>
+    <edge source="actionpack" target="rack-test">
+      <point x="-37.08333333333326" y="-14.5" />
+      <point x="2001.0350937867372" y="545.0" />
+      <point x="1042.807161687972" y="545.0" />
+      <point x="25.66666666666663" y="14.5" />
+    </edge>
+    <edge source="capybara" target="mini_mime">
+      <point x="6.6666666666667425" y="-14.5" />
+      <point x="1072.6404950213055" y="1013.0" />
+      <point x="1088.1404950213052" y="1013.0" />
+      <point x="1088.1404950213052" y="565.0" />
+      <point x="1536.9475937867371" y="565.0" />
+      <point x="-30.0" y="14.5" />
+    </edge>
+    <edge source="railties" target="activesupport">
+      <point x="13.400000000000091" y="-14.5" />
+      <point x="1852.5975937867372" y="724.0" />
+      <point x="1807.8089542915895" y="724.0" />
+      <point x="1807.8089542915895" y="267.0" />
+      <point x="2478.7796925521698" y="267.0" />
+      <point x="-40.0" y="14.5" />
+    </edge>
+    <edge source="web-console" target="actionview">
+      <point x="12.5" y="-14.5" />
+      <point x="1949.4070036926778" y="1033.0" />
+      <point x="1972.1184271200705" y="1033.0" />
+      <point x="1972.1184271200705" y="555.0" />
+      <point x="2006.4385802469133" y="555.0" />
+      <point x="-35.200000000000045" y="14.5" />
+    </edge>
+    <edge source="rails" target="bundler">
+      <point x="19.875" y="-14.5" />
+      <point x="2341.386710942088" y="1023.0" />
+      <point x="2565.980309836121" y="1023.0" />
+      <point x="-18.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="ffi">
+      <point x="-52.987654320987986" y="-14.5" />
+      <point x="2363.9128086419746" y="1482.0" />
+      <point x="93.96604938271594" y="1482.0" />
+      <point x="93.96604938271594" y="446.0" />
+      <point x="130.6327160493829" y="446.0" />
+      <point x="-14.33333333333303" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="activejob">
+      <point x="8.59259259259261" y="-14.5" />
+      <point x="2425.493055555555" y="1172.0" />
+      <point x="2748.8011606224277" y="1172.0" />
+      <point x="2748.8011606224277" y="814.0" />
+      <point x="2735.6521430408543" y="814.0" />
+      <point x="26.666666666666742" y="14.5" />
+    </edge>
+    <edge source="activejob" target="activesupport">
+      <point x="-20.0" y="-14.5" />
+      <point x="2688.985476374188" y="307.0" />
+      <point x="2526.7796925521698" y="307.0" />
+      <point x="8.0" y="14.5" />
+    </edge>
+    <edge source="activesupport" target="minitest">
+      <point x="-13.0" y="-14.5" />
+      <point x="2505.7796925521698" y="138.0" />
+      <point x="815.5459137088469" y="138.0" />
+      <point x="18.5" y="14.5" />
+    </edge>
+    <edge source="sass-listen" target="rb-inotify">
+      <point x="-21.25" y="-14.5" />
+      <point x="787.8904950213052" y="565.0" />
+      <point x="165.21604938271594" y="565.0" />
+      <point x="20.25" y="14.5" />
+    </edge>
+    <edge source="marcel" target="mimemagic">
+      <point x="0.0" y="-14.5" />
+      <point x="3129.735476374188" y="565.0" />
+      <point x="3128.235476374188" y="565.0" />
+      <point x="-23.75" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="coffee-script">
+      <point x="12.888888888888687" y="-14.5" />
+      <point x="2429.7893518518513" y="1202.0" />
+      <point x="3001.235476374188" y="1202.0" />
+      <point x="24.75" y="14.5" />
+    </edge>
+    <edge source="childprocess" target="ffi">
+      <point x="0.0" y="-14.5" />
+      <point x="257.890495021305" y="874.0" />
+      <point x="195.96604938271594" y="874.0" />
+      <point x="195.96604938271594" y="446.0" />
+      <point x="159.29938271604897" y="446.0" />
+      <point x="14.33333333333303" y="14.5" />
+    </edge>
+    <edge source="actionview" target="builder">
+      <point x="-35.200000000000045" y="-14.5" />
+      <point x="2006.4385802469133" y="396.0" />
+      <point x="1276.6404950213052" y="396.0" />
+      <point x="17.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="web-console">
+      <point x="-7.160493827160735" y="-14.5" />
+      <point x="2409.739969135802" y="1162.0" />
+      <point x="1936.9070036926778" y="1162.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="actionmailer" target="actionpack">
+      <point x="19.59999999999991" y="-14.5" />
+      <point x="2172.2184271200704" y="684.0" />
+      <point x="2025.4041414057847" y="684.0" />
+      <point x="-12.71428571428578" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rails">
+      <point x="-1.432098765432329" y="-14.5" />
+      <point x="2415.4683641975303" y="1122.0" />
+      <point x="2321.511710942088" y="1122.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rails-dom-testing">
+      <point x="-24.345679012345954" y="-14.5" />
+      <point x="2392.5547839506166" y="1282.0" />
+      <point x="1243.5725937867371" y="1282.0" />
+      <point x="1243.5725937867371" y="446.0" />
+      <point x="1833.6839542915895" y="446.0" />
+      <point x="-46.125" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="actionmailer">
+      <point x="-5.728395061728406" y="-14.5" />
+      <point x="2411.172067901234" y="1152.0" />
+      <point x="2128.1184271200705" y="1152.0" />
+      <point x="-24.5" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rb-fsevent">
+      <point x="-35.80246913580277" y="-14.5" />
+      <point x="2381.09799382716" y="1362.0" />
+      <point x="936.3904950213052" y="1362.0" />
+      <point x="21.25" y="14.5" />
+    </edge>
+    <edge source="rails" target="actionview">
+      <point x="-6.625" y="-14.5" />
+      <point x="2314.886710942088" y="973.0" />
+      <point x="2236.4463592188363" y="973.0" />
+      <point x="2236.4463592188363" y="515.0" />
+      <point x="2076.8385802469134" y="515.0" />
+      <point x="35.200000000000045" y="14.5" />
+    </edge>
+    <edge source="actionview" target="erubi">
+      <point x="35.200000000000045" y="-14.5" />
+      <point x="2076.8385802469134" y="446.0" />
+      <point x="2842.735476374188" y="446.0" />
+      <point x="-14.75" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="railties">
+      <point x="-8.59259259259261" y="-14.5" />
+      <point x="2408.30787037037" y="1172.0" />
+      <point x="1848.8730530753942" y="1172.0" />
+      <point x="1848.8730530753942" y="1043.0" />
+      <point x="1825.797593786737" y="1043.0" />
+      <point x="-13.400000000000091" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="thor">
+      <point x="-22.913580246913625" y="-14.5" />
+      <point x="2393.986882716049" y="1272.0" />
+      <point x="1267.3225937867371" y="1272.0" />
+      <point x="-13.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="puma">
+      <point x="30.074074074073906" y="-14.5" />
+      <point x="2446.9745370370365" y="1322.0" />
+      <point x="3718.235476374188" y="1322.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="concurrent-ruby">
+      <point x="52.98765432098753" y="-14.5" />
+      <point x="2469.88811728395" y="1482.0" />
+      <point x="4329.122822053199" y="1482.0" />
+      <point x="4329.122822053199" y="49.0" />
+      <point x="3264.336791317602" y="49.0" />
+      <point x="43.5" y="14.5" />
+    </edge>
+    <edge source="rails" target="actioncable">
+      <point x="24.291666666666742" y="-14.5" />
+      <point x="2345.803377608755" y="1033.0" />
+      <point x="2668.5511606224277" y="1033.0" />
+      <point x="-23.25" y="14.5" />
+    </edge>
+    <edge source="sass" target="sass-listen">
+      <point x="0.0" y="-14.5" />
+      <point x="1205.6404950213052" y="874.0" />
+      <point x="830.3904950213052" y="874.0" />
+      <point x="21.25" y="14.5" />
+    </edge>
+    <edge source="sprockets" target="concurrent-ruby">
+      <point x="20.25" y="-14.5" />
+      <point x="1523.8225937867371" y="555.0" />
+      <point x="1509.0725937867371" y="555.0" />
+      <point x="1509.0725937867371" y="49.0" />
+      <point x="3177.336791317602" y="49.0" />
+      <point x="-43.5" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="nokogiri">
+      <point x="-34.37037037037044" y="-14.5" />
+      <point x="2382.530092592592" y="1352.0" />
+      <point x="968.1404950213052" y="1352.0" />
+      <point x="968.1404950213052" y="178.0" />
+      <point x="1030.6893555261577" y="178.0" />
+      <point x="-19.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="sass">
+      <point x="-27.209876543210157" y="-14.5" />
+      <point x="2389.6905864197524" y="1302.0" />
+      <point x="1192.6404950213052" y="1302.0" />
+      <point x="-13.0" y="14.5" />
+    </edge>
+    <edge source="rails" target="sprockets-rails">
+      <point x="-24.291666666666742" y="-14.5" />
+      <point x="2297.220044275421" y="1013.0" />
+      <point x="1532.0725937867371" y="1013.0" />
+      <point x="36.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="crass">
+      <point x="40.098765432098844" y="-14.5" />
+      <point x="2456.9992283950614" y="1392.0" />
+      <point x="3947.065723287768" y="1392.0" />
+      <point x="3947.065723287768" y="168.0" />
+      <point x="3942.2141061324173" y="168.0" />
+      <point x="14.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="sass-rails">
+      <point x="-18.617283950617548" y="-14.5" />
+      <point x="2398.283179012345" y="1242.0" />
+      <point x="1431.5725937867371" y="1242.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="actioncable">
+      <point x="7.1604938271602805" y="-14.5" />
+      <point x="2424.060956790123" y="1162.0" />
+      <point x="2715.0511606224277" y="1162.0" />
+      <point x="23.25" y="14.5" />
+    </edge>
+    <edge source="archive-zip" target="io-like">
+      <point x="0.0" y="-14.5" />
+      <point x="385.890495021305" y="864.0" />
+      <point x="255.21604938271594" y="864.0" />
+      <point x="16.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="sass-listen">
+      <point x="-38.66666666666697" y="-14.5" />
+      <point x="2378.2337962962956" y="1382.0" />
+      <point x="745.1404950213052" y="1382.0" />
+      <point x="745.1404950213052" y="884.0" />
+      <point x="787.8904950213052" y="884.0" />
+      <point x="-21.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="xpath">
+      <point x="-28.64197530864203" y="-14.5" />
+      <point x="2388.2584876543206" y="1312.0" />
+      <point x="1144.3904950213052" y="1312.0" />
+      <point x="15.25" y="14.5" />
+    </edge>
+    <edge source="mail" target="mini_mime">
+      <point x="0.0" y="-14.5" />
+      <point x="1604.9475937867371" y="565.0" />
+      <point x="1596.9475937867371" y="565.0" />
+      <point x="30.0" y="14.5" />
+    </edge>
+    <edge source="activejob" target="globalid">
+      <point x="20.0" y="-14.5" />
+      <point x="2728.985476374188" y="555.0" />
+      <point x="2878.485476374188" y="555.0" />
+      <point x="-19.0" y="14.5" />
+    </edge>
+    <edge source="activemodel" target="activesupport">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="coffee-script" target="coffee-script-source">
+      <point x="24.75" y="-14.5" />
+      <point x="3001.235476374188" y="874.0" />
+      <point x="3305.735476374188" y="874.0" />
+      <point x="-34.5" y="14.5" />
+    </edge>
+    <edge source="sass-rails" target="sprockets">
+      <point x="0.0" y="-14.5" />
+      <point x="1431.5725937867371" y="884.0" />
+      <point x="1476.5725937867371" y="884.0" />
+      <point x="-27.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="erubi">
+      <point x="35.80246913580231" y="-14.5" />
+      <point x="2452.702932098765" y="1362.0" />
+      <point x="3929.985476374188" y="1362.0" />
+      <point x="3929.985476374188" y="426.0" />
+      <point x="2872.235476374188" y="426.0" />
+      <point x="14.75" y="14.5" />
+    </edge>
+    <edge source="railties" target="method_source">
+      <point x="0.0" y="-14.5" />
+      <point x="1839.1975937867371" y="734.0" />
+      <point x="1411.0725937867371" y="734.0" />
+      <point x="28.0" y="14.5" />
+    </edge>
+    <edge source="capybara" target="xpath">
+      <point x="20.0" y="-14.5" />
+      <point x="1085.9738283546387" y="1023.0" />
+      <point x="1113.8904950213052" y="1023.0" />
+      <point x="-15.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="public_suffix">
+      <point x="4.296296296296077" y="-14.5" />
+      <point x="2421.1967592592587" y="1142.0" />
+      <point x="2630.480309836121" y="1142.0" />
+      <point x="2630.480309836121" y="644.0" />
+      <point x="2348.6504629629626" y="644.0" />
+      <point x="24.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="minitest">
+      <point x="-42.96296296296305" y="-14.5" />
+      <point x="2373.9374999999995" y="1412.0" />
+      <point x="520.3904950213052" y="1412.0" />
+      <point x="520.3904950213052" y="446.0" />
+      <point x="821.2088555445298" y="446.0" />
+      <point x="821.2088555445298" y="158.0" />
+      <point x="778.5459137088469" y="158.0" />
+      <point x="-18.5" y="14.5" />
+    </edge>
+    <edge source="tzinfo" target="thread_safe">
+      <point x="0.0" y="-14.5" />
+      <point x="66.75" y="59.0" />
+      <point x="69.0" y="59.0" />
+      <point x="23.0" y="14.5" />
+    </edge>
+    <edge source="actionpack" target="rails-html-sanitizer">
+      <point x="37.08333333333326" y="-14.5" />
+      <point x="2075.201760453404" y="545.0" />
+      <point x="2172.138580246913" y="545.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="addressable">
+      <point x="-11.456790123456813" y="-14.5" />
+      <point x="2405.443672839506" y="1192.0" />
+      <point x="1673.6975937867371" y="1192.0" />
+      <point x="24.0" y="14.5" />
+    </edge>
+    <edge source="capybara" target="nokogiri">
+      <point x="-6.6666666666667425" y="-14.5" />
+      <point x="1059.307161687972" y="1003.0" />
+      <point x="1077.1404950213052" y="1003.0" />
+      <point x="1077.1404950213052" y="178.0" />
+      <point x="1043.3560221928242" y="178.0" />
+      <point x="-6.333333333333485" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rb-inotify">
+      <point x="-51.55555555555566" y="-14.5" />
+      <point x="2365.344907407407" y="1472.0" />
+      <point x="124.71604938271594" y="1472.0" />
+      <point x="-20.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="tzinfo-data">
+      <point x="-54.41975308641986" y="-14.5" />
+      <point x="2362.4807098765427" y="1492.0" />
+      <point x="84.41666666666652" y="1492.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="chromedriver-helper" target="nokogiri">
+      <point x="35.0" y="-14.5" />
+      <point x="699.6404950213052" y="1043.0" />
+      <point x="756.1404950213052" y="1043.0" />
+      <point x="756.1404950213052" y="168.0" />
+      <point x="1018.0226888594912" y="168.0" />
+      <point x="-31.666666666666515" y="14.5" />
+    </edge>
+    <edge source="selenium-webdriver" target="childprocess">
+      <point x="-34.0" y="-14.5" />
+      <point x="407.89049502130524" y="1043.0" />
+      <point x="282.140495021305" y="1043.0" />
+      <point x="24.25" y="14.5" />
+    </edge>
+    <edge source="rails-dom-testing" target="activesupport">
+      <point x="30.75" y="-14.5" />
+      <point x="1910.5589542915895" y="277.0" />
+      <point x="2486.7796925521698" y="277.0" />
+      <point x="-32.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="io-like">
+      <point x="-50.12345679012378" y="-14.5" />
+      <point x="2366.777006172839" y="1462.0" />
+      <point x="193.48154440402095" y="1462.0" />
+      <point x="193.48154440402095" y="884.0" />
+      <point x="222.71604938271594" y="884.0" />
+      <point x="-16.25" y="14.5" />
+    </edge>
+    <edge source="rack-test" target="rack">
+      <point x="0.0" y="-14.5" />
+      <point x="1017.1404950213052" y="436.0" />
+      <point x="857.0404950213051" y="436.0" />
+      <point x="-10.600000000000023" y="14.5" />
+    </edge>
+    <edge source="activerecord" target="arel">
+      <point x="32.33333333333326" y="-14.5" />
+      <point x="2849.818809707521" y="565.0" />
+      <point x="3035.735476374188" y="565.0" />
+      <point x="-13.0" y="14.5" />
+    </edge>
+    <edge source="rails" target="activestorage">
+      <point x="15.458333333333258" y="-14.5" />
+      <point x="2336.970044275421" y="1013.0" />
+      <point x="2450.730309836121" y="1013.0" />
+      <point x="-25.75" y="14.5" />
+    </edge>
+    <edge source="activesupport" target="concurrent-ruby">
+      <point x="13.0" y="-14.5" />
+      <point x="2531.7796925521698" y="59.0" />
+      <point x="3206.336791317602" y="59.0" />
+      <point x="-14.5" y="14.5" />
+    </edge>
+    <edge source="loofah" target="nokogiri">
+      <point x="-16.5" y="-14.5" />
+      <point x="3881.4641061324173" y="128.0" />
+      <point x="1081.3560221928242" y="128.0" />
+      <point x="31.66666666666663" y="14.5" />
+    </edge>
+    <edge source="actionpack" target="rails-dom-testing">
+      <point x="-7.4166666666667425" y="-14.5" />
+      <point x="2030.7017604534037" y="525.0" />
+      <point x="1895.1839542915895" y="525.0" />
+      <point x="15.375" y="14.5" />
+    </edge>
+    <edge source="xpath" target="nokogiri">
+      <point x="0.0" y="-14.5" />
+      <point x="1129.1404950213052" y="168.0" />
+      <point x="1056.0226888594912" y="168.0" />
+      <point x="6.333333333333485" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="arel">
+      <point x="15.75308641975289" y="-14.5" />
+      <point x="2432.6535493827155" y="1222.0" />
+      <point x="3061.735476374188" y="1222.0" />
+      <point x="13.0" y="14.5" />
+    </edge>
+    <edge source="sass-rails" target="sass">
+      <point x="-31.59999999999991" y="-14.5" />
+      <point x="1399.9725937867372" y="1023.0" />
+      <point x="1218.6404950213052" y="1023.0" />
+      <point x="13.0" y="14.5" />
+    </edge>
+    <edge source="websocket-driver" target="websocket-extensions">
+      <point x="0.0" y="-14.5" />
+      <point x="-37.0" y="14.5" />
+    </edge>
+    <edge source="bootsnap" target="msgpack">
+      <point x="0.0" y="-14.5" />
+      <point x="4251.9407232877675" y="1043.0" />
+      <point x="4257.9407232877675" y="1043.0" />
+      <point x="-19.75" y="14.5" />
+    </edge>
+    <edge source="activestorage" target="actionpack">
+      <point x="-34.33333333333326" y="-14.5" />
+      <point x="2442.1469765027878" y="654.0" />
+      <point x="2063.5469985486416" y="654.0" />
+      <point x="25.42857142857133" y="14.5" />
+    </edge>
+    <edge source="uglifier" target="execjs">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="sqlite3">
+      <point x="24.3456790123455" y="-14.5" />
+      <point x="2441.246141975308" y="1282.0" />
+      <point x="3319.485476374188" y="1282.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="rails" target="railties">
+      <point x="-19.875" y="-14.5" />
+      <point x="2301.636710942088" y="1003.0" />
+      <point x="1852.5975937867372" y="1003.0" />
+      <point x="13.400000000000091" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="actionview">
+      <point x="-2.864197530864203" y="-14.5" />
+      <point x="2414.0362654320984" y="1132.0" />
+      <point x="2213.550525885503" y="1132.0" />
+      <point x="2213.550525885503" y="525.0" />
+      <point x="2059.2385802469134" y="525.0" />
+      <point x="17.600000000000023" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="duktape">
+      <point x="34.37037037037044" y="-14.5" />
+      <point x="2451.270833333333" y="1352.0" />
+      <point x="3881.985476374188" y="1352.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="tzinfo">
+      <point x="-55.85185185185219" y="-14.5" />
+      <point x="2361.0486111111104" y="1502.0" />
+      <point x="28.416666666666515" y="1502.0" />
+      <point x="28.416666666666515" y="178.0" />
+      <point x="46.083333333333485" y="178.0" />
+      <point x="-20.666666666666515" y="14.5" />
+    </edge>
+    <edge source="actionpack" target="activesupport">
+      <point x="22.25" y="-14.5" />
+      <point x="2060.3684271200705" y="535.0" />
+      <point x="2096.138580246913" y="535.0" />
+      <point x="2096.138580246913" y="297.0" />
+      <point x="2502.7796925521698" y="297.0" />
+      <point x="-16.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rails-html-sanitizer">
+      <point x="17.18518518518522" y="-14.5" />
+      <point x="2434.085648148148" y="1232.0" />
+      <point x="3085.235476374188" y="1232.0" />
+      <point x="3085.235476374188" y="436.0" />
+      <point x="2215.80524691358" y="436.0" />
+      <point x="43.66666666666674" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="method_source">
+      <point x="-21.48148148148175" y="-14.5" />
+      <point x="2395.418981481481" y="1262.0" />
+      <point x="1355.0725937867371" y="1262.0" />
+      <point x="-28.0" y="14.5" />
+    </edge>
+    <edge source="capybara" target="rack">
+      <point x="-20.0" y="-14.5" />
+      <point x="1045.9738283546387" y="993.0" />
+      <point x="1066.1404950213052" y="993.0" />
+      <point x="1066.1404950213052" y="426.0" />
+      <point x="867.6404950213052" y="426.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="capybara" target="addressable">
+      <point x="33.33333333333337" y="-14.5" />
+      <point x="1099.307161687972" y="1033.0" />
+      <point x="1625.6975937867371" y="1033.0" />
+      <point x="-24.0" y="14.5" />
+    </edge>
+    <edge source="web-console" target="railties">
+      <point x="-12.5" y="-14.5" />
+      <point x="1924.4070036926778" y="1023.0" />
+      <point x="1839.1975937867371" y="1023.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="activestorage" target="marcel">
+      <point x="34.33333333333326" y="-14.5" />
+      <point x="2510.813643169454" y="854.0" />
+      <point x="3112.735476374188" y="854.0" />
+      <point x="-17.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="thread_safe">
+      <point x="-57.28395061728406" y="-14.5" />
+      <point x="2359.6165123456785" y="1512.0" />
+      <point x="17.283950617284063" y="1512.0" />
+      <point x="17.283950617284063" y="59.0" />
+      <point x="23.0" y="59.0" />
+      <point x="-23.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="execjs">
+      <point x="22.913580246913625" y="-14.5" />
+      <point x="2439.814043209876" y="1272.0" />
+      <point x="3275.485476374188" y="1272.0" />
+      <point x="3275.485476374188" y="864.0" />
+      <point x="3240.568809707521" y="864.0" />
+      <point x="21.333333333333485" y="14.5" />
+    </edge>
+    <edge source="rb-inotify" target="ffi">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="coffee-rails" target="coffee-script">
+      <point x="23.0" y="-14.5" />
+      <point x="2437.011710942088" y="1043.0" />
+      <point x="2951.735476374188" y="1043.0" />
+      <point x="-24.75" y="14.5" />
+    </edge>
+    <edge source="ruby_parser" target="sexp_processor">
+      <point x="0.0" y="-14.5" />
+      <point x="4084.440723287768" y="884.0" />
+      <point x="4114.4407232877675" y="884.0" />
+      <point x="-28.0" y="14.5" />
+    </edge>
+    <edge source="sprockets" target="rack">
+      <point x="-20.25" y="-14.5" />
+      <point x="1483.3225937867371" y="555.0" />
+      <point x="1498.0725937867371" y="555.0" />
+      <point x="1498.0725937867371" y="416.0" />
+      <point x="878.2404950213054" y="416.0" />
+      <point x="10.600000000000136" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="bundler">
+      <point x="2.864197530864203" y="-14.5" />
+      <point x="2419.764660493827" y="1132.0" />
+      <point x="2601.980309836121" y="1132.0" />
+      <point x="18.0" y="14.5" />
+    </edge>
+    <edge source="actioncable" target="nio4r">
+      <point x="0.0" y="-14.5" />
+      <point x="2691.8011606224277" y="844.0" />
+      <point x="3006.985476374188" y="844.0" />
+      <point x="-14.75" y="14.5" />
+    </edge>
+    <edge source="rails" target="activejob">
+      <point x="6.625" y="-14.5" />
+      <point x="2328.136710942088" y="993.0" />
+      <point x="2397.739719742061" y="993.0" />
+      <point x="2397.739719742061" y="814.0" />
+      <point x="2708.985476374188" y="814.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="globalid">
+      <point x="11.456790123456813" y="-14.5" />
+      <point x="2428.3572530864194" y="1192.0" />
+      <point x="2916.485476374188" y="1192.0" />
+      <point x="19.0" y="14.5" />
+    </edge>
+    <edge source="railties" target="rake">
+      <point x="-26.799999999999955" y="-14.5" />
+      <point x="1812.3975937867372" y="754.0" />
+      <point x="1199.1404950213052" y="754.0" />
+      <point x="13.5" y="14.5" />
+    </edge>
+    <edge source="actionmailer" target="actionview">
+      <point x="0.0" y="-14.5" />
+      <point x="2152.6184271200705" y="694.0" />
+      <point x="1983.1184271200705" y="694.0" />
+      <point x="1983.1184271200705" y="565.0" />
+      <point x="2024.0385802469132" y="565.0" />
+      <point x="-17.600000000000023" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="coffee-rails">
+      <point x="0.0" y="-14.5" />
+      <point x="2416.9004629629626" y="1112.0" />
+      <point x="2414.011710942088" y="1112.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="marcel">
+      <point x="18.617283950617093" y="-14.5" />
+      <point x="2435.5177469135797" y="1242.0" />
+      <point x="3146.735476374188" y="1242.0" />
+      <point x="17.0" y="14.5" />
+    </edge>
+    <edge source="jbuilder" target="activesupport">
+      <point x="-18.0" y="-14.5" />
+      <point x="3612.235476374188" y="277.0" />
+      <point x="2550.7796925521698" y="277.0" />
+      <point x="32.0" y="14.5" />
+    </edge>
+    <edge source="rails" target="activerecord">
+      <point x="11.041666666666742" y="-14.5" />
+      <point x="2332.553377608755" y="1003.0" />
+      <point x="2402.156386408728" y="1003.0" />
+      <point x="2402.156386408728" y="824.0" />
+      <point x="2785.1521430408543" y="824.0" />
+      <point x="-32.33333333333326" y="14.5" />
+    </edge>
+    <edge source="globalid" target="activesupport">
+      <point x="0.0" y="-14.5" />
+      <point x="2897.485476374188" y="287.0" />
+      <point x="2542.7796925521698" y="287.0" />
+      <point x="24.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="activesupport">
+      <point x="37.23456790123464" y="-14.5" />
+      <point x="2454.1350308641972" y="1372.0" />
+      <point x="3931.4175751396197" y="1372.0" />
+      <point x="3931.4175751396197" y="267.0" />
+      <point x="2558.7796925521698" y="267.0" />
+      <point x="40.0" y="14.5" />
+    </edge>
+    <edge source="sprockets-rails" target="sprockets">
+      <point x="0.0" y="-14.5" />
+      <point x="1496.0725937867371" y="884.0" />
+      <point x="1503.5725937867371" y="884.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="mini_mime">
+      <point x="-14.320987654321016" y="-14.5" />
+      <point x="2402.5794753086416" y="1212.0" />
+      <point x="1566.9475937867371" y="1212.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="rails" target="activemodel">
+      <point x="2.2083333333332575" y="-14.5" />
+      <point x="2323.720044275421" y="983.0" />
+      <point x="2383.4004629629626" y="983.0" />
+      <point x="2383.4004629629626" y="565.0" />
+      <point x="2506.6546925521698" y="565.0" />
+      <point x="-12.125" y="14.5" />
+    </edge>
+    <edge source="railties" target="thor">
+      <point x="-13.400000000000091" y="-14.5" />
+      <point x="1825.797593786737" y="744.0" />
+      <point x="1293.8225937867371" y="744.0" />
+      <point x="13.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="loofah">
+      <point x="38.666666666666515" y="-14.5" />
+      <point x="2455.567129629629" y="1382.0" />
+      <point x="3932.8496739050515" y="1382.0" />
+      <point x="3932.8496739050515" y="257.0" />
+      <point x="3914.4641061324173" y="257.0" />
+      <point x="16.5" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rake">
+      <point x="-31.506172839506235" y="-14.5" />
+      <point x="2385.3942901234564" y="1332.0" />
+      <point x="988.5725937867373" y="1332.0" />
+      <point x="988.5725937867373" y="884.0" />
+      <point x="1172.1404950213052" y="884.0" />
+      <point x="-13.5" y="14.5" />
+    </edge>
+    <edge source="actionpack" target="actionview">
+      <point x="7.4166666666667425" y="-14.5" />
+      <point x="2045.5350937867372" y="565.0" />
+      <point x="2041.6385802469133" y="565.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="nio4r">
+      <point x="14.320987654321016" y="-14.5" />
+      <point x="2431.2214506172836" y="1212.0" />
+      <point x="3036.485476374188" y="1212.0" />
+      <point x="14.75" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="byebug">
+      <point x="45.82716049382725" y="-14.5" />
+      <point x="2462.72762345679" y="1432.0" />
+      <point x="4153.9407232877675" y="1432.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="bootsnap">
+      <point x="48.69135802469145" y="-14.5" />
+      <point x="2465.591820987654" y="1452.0" />
+      <point x="4251.9407232877675" y="1452.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="activesupport" target="tzinfo">
+      <point x="-39.0" y="-14.5" />
+      <point x="2479.7796925521698" y="148.0" />
+      <point x="87.41666666666674" y="148.0" />
+      <point x="20.66666666666667" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="railroady">
+      <point x="57.28395061728406" y="-14.5" />
+      <point x="2474.1844135802467" y="1512.0" />
+      <point x="4484.122822053199" y="1512.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="jbuilder" target="multi_json">
+      <point x="18.0" y="-14.5" />
+      <point x="3648.235476374188" y="1043.0" />
+      <point x="3791.485476374188" y="1043.0" />
+      <point x="-21.25" y="14.5" />
+    </edge>
+    <edge source="chromedriver-helper" target="archive-zip">
+      <point x="-35.0" y="-14.5" />
+      <point x="629.6404950213052" y="1033.0" />
+      <point x="408.390495021305" y="1033.0" />
+      <point x="22.5" y="14.5" />
+    </edge>
+    <edge source="activesupport" target="i18n">
+      <point x="39.0" y="-14.5" />
+      <point x="2557.7796925521698" y="178.0" />
+      <point x="3985.4641061324173" y="178.0" />
+      <point x="-18.0" y="14.5" />
+    </edge>
+    <edge source="web-console" target="bindex">
+      <point x="-37.5" y="-14.5" />
+      <point x="1899.4070036926778" y="1033.0" />
+      <point x="1768.6975937867371" y="1033.0" />
+      <point x="17.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rack">
+      <point x="-37.23456790123464" y="-14.5" />
+      <point x="2379.665895061728" y="1372.0" />
+      <point x="862.1404950213052" y="1372.0" />
+      <point x="862.1404950213052" y="446.0" />
+      <point x="846.4404950213052" y="446.0" />
+      <point x="-21.200000000000045" y="14.5" />
+    </edge>
+    <edge source="actionmailer" target="mail">
+      <point x="-39.200000000000045" y="-14.5" />
+      <point x="2113.41842712007" y="714.0" />
+      <point x="1618.6975937867371" y="714.0" />
+      <point x="13.75" y="14.5" />
+    </edge>
+    <edge source="coffee-rails" target="railties">
+      <point x="-23.0" y="-14.5" />
+      <point x="2391.011710942088" y="953.0" />
+      <point x="1865.997593786737" y="953.0" />
+      <point x="26.799999999999955" y="14.5" />
+    </edge>
+    <edge source="actionmailer" target="activejob">
+      <point x="39.200000000000045" y="-14.5" />
+      <point x="2191.8184271200707" y="804.0" />
+      <point x="2682.318809707521" y="804.0" />
+      <point x="-26.666666666666742" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rubyzip">
+      <point x="-41.53086419753117" y="-14.5" />
+      <point x="2375.3695987654314" y="1402.0" />
+      <point x="584.1404950213052" y="1402.0" />
+      <point x="17.75" y="14.5" />
+    </edge>
+    <edge source="actioncable" target="actionpack">
+      <point x="-31.0" y="-14.5" />
+      <point x="2660.8011606224277" y="634.0" />
+      <point x="2076.261284262928" y="634.0" />
+      <point x="38.14285714285711" y="14.5" />
+    </edge>
+    <edge source="rails-html-sanitizer" target="loofah">
+      <point x="0.0" y="-14.5" />
+      <point x="2172.138580246913" y="317.0" />
+      <point x="3881.4641061324173" y="317.0" />
+      <point x="-16.5" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="websocket-driver">
+      <point x="28.64197530864203" y="-14.5" />
+      <point x="2445.5424382716046" y="1312.0" />
+      <point x="3676.735476374188" y="1312.0" />
+      <point x="3676.735476374188" y="884.0" />
+      <point x="3521.485476374188" y="884.0" />
+      <point x="30.75" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="bindex">
+      <point x="-10.024691358024938" y="-14.5" />
+      <point x="2406.8757716049377" y="1182.0" />
+      <point x="1734.6975937867371" y="1182.0" />
+      <point x="-17.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="pg">
+      <point x="42.96296296296305" y="-14.5" />
+      <point x="2459.8634259259256" y="1412.0" />
+      <point x="4073.940723287768" y="1412.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="sprockets-rails" target="activesupport">
+      <point x="-36.0" y="-14.5" />
+      <point x="1460.0725937867371" y="874.0" />
+      <point x="1452.5725937867371" y="874.0" />
+      <point x="1452.5725937867371" y="257.0" />
+      <point x="2470.7796925521698" y="257.0" />
+      <point x="-48.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="sexp_processor">
+      <point x="47.259259259259125" y="-14.5" />
+      <point x="2464.1597222222217" y="1442.0" />
+      <point x="4200.4407232877675" y="1442.0" />
+      <point x="4200.4407232877675" y="884.0" />
+      <point x="4170.4407232877675" y="884.0" />
+      <point x="28.0" y="14.5" />
+    </edge>
+    <edge source="actionpack" target="rack">
+      <point x="-22.25" y="-14.5" />
+      <point x="2015.8684271200705" y="535.0" />
+      <point x="1755.1433641975304" y="535.0" />
+      <point x="1755.1433641975304" y="406.0" />
+      <point x="888.8404950213053" y="406.0" />
+      <point x="21.200000000000045" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="coffee-script-source">
+      <point x="25.77777777777783" y="-14.5" />
+      <point x="2442.6782407407404" y="1292.0" />
+      <point x="3374.735476374188" y="1292.0" />
+      <point x="34.5" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="activemodel">
+      <point x="5.728395061728406" y="-14.5" />
+      <point x="2422.628858024691" y="1152.0" />
+      <point x="2631.912408601553" y="1152.0" />
+      <point x="2631.912408601553" y="565.0" />
+      <point x="2530.9046925521698" y="565.0" />
+      <point x="12.125" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="activestorage">
+      <point x="1.4320987654318742" y="-14.5" />
+      <point x="2418.3325617283945" y="1122.0" />
+      <point x="2502.230309836121" y="1122.0" />
+      <point x="25.75" y="14.5" />
+    </edge>
+    <edge source="loofah" target="crass">
+      <point x="16.5" y="-14.5" />
+      <point x="-14.25" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="selenium-webdriver">
+      <point x="-44.395061728395376" y="-14.5" />
+      <point x="2372.505401234567" y="1422.0" />
+      <point x="441.89049502130524" y="1422.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="activestorage" target="activerecord">
+      <point x="0.0" y="-14.5" />
+      <point x="2476.480309836121" y="834.0" />
+      <point x="2817.485476374188" y="834.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="rack-test">
+      <point x="-32.93827160493856" y="-14.5" />
+      <point x="2383.962191358024" y="1342.0" />
+      <point x="987.140495021305" y="1342.0" />
+      <point x="987.140495021305" y="565.0" />
+      <point x="991.4738283546385" y="565.0" />
+      <point x="-25.666666666666742" y="14.5" />
+    </edge>
+    <edge source="turbolinks" target="turbolinks-source">
+      <point x="0.0" y="-14.5" />
+      <point x="4381.622822053199" y="1043.0" />
+      <point x="4377.122822053199" y="1043.0" />
+      <point x="-30.75" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="jbuilder">
+      <point x="27.209876543209703" y="-14.5" />
+      <point x="2444.1103395061723" y="1302.0" />
+      <point x="3630.235476374188" y="1302.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="sprockets">
+      <point x="-15.753086419753345" y="-14.5" />
+      <point x="2401.1473765432092" y="1222.0" />
+      <point x="1565.481544404021" y="1222.0" />
+      <point x="1565.481544404021" y="764.0" />
+      <point x="1530.5725937867371" y="764.0" />
+      <point x="27.0" y="14.5" />
+    </edge>
+    <edge source="web-console" target="activemodel">
+      <point x="37.5" y="-14.5" />
+      <point x="1974.4070036926778" y="1043.0" />
+      <point x="2093.1184271200705" y="1043.0" />
+      <point x="2093.1184271200705" y="555.0" />
+      <point x="2482.4046925521698" y="555.0" />
+      <point x="-36.375" y="14.5" />
+    </edge>
+    <edge source="rails" target="activesupport">
+      <point x="-2.2083333333332575" y="-14.5" />
+      <point x="2319.303377608755" y="963.0" />
+      <point x="2265.4004629629626" y="963.0" />
+      <point x="2265.4004629629626" y="307.0" />
+      <point x="2510.7796925521698" y="307.0" />
+      <point x="-8.0" y="14.5" />
+    </edge>
+    <edge source="activerecord" target="activemodel">
+      <point x="-32.33333333333326" y="-14.5" />
+      <point x="2785.1521430408543" y="545.0" />
+      <point x="2555.1546925521698" y="545.0" />
+      <point x="36.375" y="14.5" />
+    </edge>
+    <edge source="capybara" target="rack-test">
+      <point x="-33.33333333333326" y="-14.5" />
+      <point x="1032.6404950213055" y="1043.0" />
+      <point x="1017.1404950213052" y="1043.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="tilt">
+      <point x="-20.049382716049422" y="-14.5" />
+      <point x="2396.851080246913" y="1252.0" />
+      <point x="1381.5725937867371" y="1252.0" />
+      <point x="-11.5" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="childprocess">
+      <point x="-48.69135802469145" y="-14.5" />
+      <point x="2368.209104938271" y="1452.0" />
+      <point x="233.64049502130501" y="1452.0" />
+      <point x="-24.25" y="14.5" />
+    </edge>
+    <edge source="sass-rails" target="sprockets-rails">
+      <point x="15.799999999999955" y="-14.5" />
+      <point x="1447.372593786737" y="1023.0" />
+      <point x="1460.0725937867371" y="1023.0" />
+      <point x="-36.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="turbolinks-source">
+      <point x="55.851851851851734" y="-14.5" />
+      <point x="2472.7523148148143" y="1502.0" />
+      <point x="4434.122822053199" y="1502.0" />
+      <point x="4434.122822053199" y="1043.0" />
+      <point x="4438.622822053199" y="1043.0" />
+      <point x="30.75" y="14.5" />
+    </edge>
+    <edge source="umlify" target="i18n">
+      <point x="0.0" y="-14.5" />
+      <point x="3998.940723287768" y="1043.0" />
+      <point x="4003.4641061324173" y="1043.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="#CapitanAmerica" target="mail">
+      <point x="-12.888888888889142" y="-14.5" />
+      <point x="2404.0115740740735" y="1202.0" />
+      <point x="1591.1975937867371" y="1202.0" />
+      <point x="-13.75" y="14.5" />
+    </edge>
+    <edge source="umlify" target="ruby_parser">
+      <point x="21.33333333333303" y="-14.5" />
+      <point x="4020.274056621101" y="1043.0" />
+      <point x="4061.440723287768" y="1043.0" />
+      <point x="-23.0" y="14.5" />
+    </edge>
+    <edge source="railties" target="actionpack">
+      <point x="26.799999999999955" y="-14.5" />
+      <point x="1865.997593786737" y="784.0" />
+      <point x="2012.6898556914991" y="784.0" />
+      <point x="-25.42857142857133" y="14.5" />
+    </edge>
+    <edge source="activerecord" target="activesupport">
+      <point x="0.0" y="-14.5" />
+      <point x="2817.485476374188" y="297.0" />
+      <point x="2534.7796925521698" y="297.0" />
+      <point x="16.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.20885286783042367" x="2860.0968667804696" y="1019.9381378105819" />
+  <SelectedNodes>
+    <node>duktape</node>
+  </SelectedNodes>
+  <Categories />
+</Diagram>
+

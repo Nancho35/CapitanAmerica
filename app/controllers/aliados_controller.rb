@@ -1,6 +1,6 @@
 class AliadosController < ApplicationController
   before_action :set_aliado, only: [:show, :edit, :update, :destroy]
-  protect_from_forgery prepend: true
+  protect_from_forgery with: :null_session, if: Proc.new { |c| c.request.format == 'application/json' }
 
   # GET /aliados
   # GET /aliados.json

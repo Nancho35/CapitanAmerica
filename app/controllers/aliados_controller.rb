@@ -1,6 +1,6 @@
 class AliadosController < ApplicationController
   before_action :set_aliado, only: [:show, :edit, :update, :destroy]
-  protect_from_forgery with: :null_session
+  protect_from_forgery prepend: true
 
   # GET /aliados
   # GET /aliados.json

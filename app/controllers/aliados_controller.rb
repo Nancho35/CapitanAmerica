@@ -70,8 +70,8 @@ class AliadosController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def aliado_params
-      #params.require(:aliado).permit(:nombre, :descripcion)
-      params.permit(preferences: {})
+      params.permit(:nombre, :descripcion)
+      #params.permit(preferences: {})
 
     end
 end
